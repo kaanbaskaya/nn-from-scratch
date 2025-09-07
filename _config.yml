@@ -1,0 +1,14 @@
+title: NN from Scratch
+description: Building a neural network without libraries; math, code, and experiments.
+
+url: "https://kaanbaskaya.github.io"
+baseurl: "/nn-from-scratch"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+just_the_docs:
+  nav_sort: case_sensitive
+  search_enabled: true
+  footer_content: "© {current_year} Kaan Baskaya - Neural Network from Scratch"
